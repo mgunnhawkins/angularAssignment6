@@ -26,3 +26,27 @@ th, td {
   margin: 5px 10px;
   padding: 6px;
 }
+
+.counts {
+  color:  white;
+  background-color:#34495E;
+  padding: 25px;
+  border-radius: 2%;
+  line-height: 200%;
+}
+
+.satelliteBox{
+  width: 20%;
+  padding: 20px;
+  border-radius: 2%;
+  overflow: hidden;
+  min-width: 250px;
+}
+
+h3{
+  text-align: center;
+}
+
+.span{
+  float: right;
+}
